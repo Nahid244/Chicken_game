@@ -1,2 +1,23 @@
-# Chicken_game
-This is a pc game .This game is made using igraphics and C .
+
+# Project Title
+Chicken_game
+
+## Built With
+
+* C
+* iGraphics
+
+
+## Authors
+
+*Nahid Hasan
+*github/Nahid244
+
+
+
+## License
+
+This project is licensed under the MIT License 
+
+
+
