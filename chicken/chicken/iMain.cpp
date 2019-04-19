@@ -2,7 +2,7 @@
 # include "iGraphics.h"
 #include<stdlib.h>
 #include<string.h>
-
+int Nahid244;
 int mouse_x;
 int mouse_y;
 
